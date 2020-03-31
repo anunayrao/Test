@@ -1,6 +1,10 @@
 import java.util.*;
 
 class Solution{
+	
+public int func2(int a, int b){
+	return a*b;
+}
 
 public int func2(int a, int b){
 	return a+b;
